@@ -124,7 +124,7 @@ export const homeAbout = [
         },
       ],
       priceAll: "$500 All Course",
-      pricePer: "$80 per month",
+      pricePer: "Rs.4000 per month",
     },
     {
       id: 7,
@@ -138,7 +138,7 @@ export const homeAbout = [
         },
       ],
       priceAll: "$20 All Course",
-      pricePer: "$2 per month",
+      pricePer: "Rs.4500 per month",
     },
     {
       id: 8,
@@ -152,7 +152,7 @@ export const homeAbout = [
         },
       ],
       priceAll: "$200 All Course",
-      pricePer: "$40 per month",
+      pricePer: "Rs.6000 per month",
     },
     {
       id: 9,
@@ -166,7 +166,7 @@ export const homeAbout = [
         },
       ],
       priceAll: "$20 All Course",
-      pricePer: "$3 per month",
+      pricePer: "Rs.6999 per month",
     },
   ]
   export const online = [
@@ -180,7 +180,7 @@ export const homeAbout = [
       cover: "./images/courses/online/o2.png",
       hoverCover: "./images/courses/online/o1.1.png",
       courseName: "Art & Design",
-      course: "25 Courses",
+      course: "15 Courses",
     },
     {
       cover: "./images/courses/online/o3.png",
@@ -272,12 +272,12 @@ export const homeAbout = [
     {
       cover: "./images/team/t6.webp",
       name: "Ph.D Arthur MaGregor",
-      work: "DEVELOPER AND LEAD INSTRUCTOR",
+      work: "DEVELOPER ",
     },
     {
       cover: "./images/team/t7.webp",
       name: "Ph.D Kenjris",
-      work: "DEVELOPER AND LEAD INSTRUCTOR",
+      work: "WEB DEVELOPER",
     },
     {
       cover: "./images/team/t8.webp",
@@ -392,23 +392,23 @@ export const homeAbout = [
   export const testimonal = [
     {
       id: 1,
-      name: "ROGER SCOTT",
+      name: "Robert",
       post: "MARKETING MANAGER",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-      cover: "./images/testo/t1.webp",
+      desc: "Enriching learning experience with in demand skill training through a curriculam designed by leading industry experts.",
+      cover: "./images/team/t5.webp",
     },
     {
       id: 2,
-      name: "ROGER SCOTT",
+      name: "Jessica ",
       post: "MARKETING MANAGER",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-      cover: "./images/testo/t2.webp",
+      desc: "Enriching learning experience with in demand skill training through a curriculam designed by leading industry experts.",
+      cover: "./images/team/t7.webp",
     },
     {
       id: 3,
-      name: "ROGER SCOTT",
+      name: "ROGER Scott ",
       post: "MARKETING MANAGER",
       desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-      cover: "./images/testo/t3.webp",
+      cover: "./images/team/t2.webp",
     },
   ]
