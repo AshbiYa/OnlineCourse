@@ -20,7 +20,7 @@ const Footer = () => {
       <footer>
         <div className='container padding'>
           <div className='box logo'>
-            <h1>Senchola's</h1>
+            <h1>a's</h1>
             <span>ONLINE EDUCATION & LEARNING</span>
             <p>To Achieve Great Things,Two things are needed,a plan and not uite enough time"</p>
 
@@ -90,7 +90,7 @@ const Footer = () => {
       </footer>
       <div className='legal'>
         <p>
-          Copyright ©2022 All rights reserved | This template is made with <i className='fa fa-heart'></i> by hsbei
+          Copyright ©2022 All rights reserved | This template is made with <i className='fa fa-heart'></i> by Hasbi
         </p>
       </div>
     </>
